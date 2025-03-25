@@ -1,0 +1,16 @@
+[Animation]
+Frames=5
+
+[Appearance]
+Skin=transparent-tabs
+SkinInstalledWithKns=true
+
+[Dialogs]
+FirstRun=false
+
+[Window]
+Height=80
+Position=100
+ShowTabBar=false
+ShowTitleBar=false
+Width=30

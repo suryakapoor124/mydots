@@ -1,0 +1,11 @@
+2025/03/25-01:47:57.240 11526 Creating DB /home/meow/.config/google-chrome/Default/Sync Data/LevelDB since it was missing.
+2025/03/25-01:47:57.258 11526 Reusing MANIFEST /home/meow/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/03/25-01:52:08.064 11539 Level-0 table #5: started
+2025/03/25-01:52:08.101 11539 Level-0 table #5: 176516 bytes OK
+2025/03/25-01:52:08.112 11539 Delete type=0 #3
+2025/03/25-01:52:12.301 11539 Level-0 table #7: started
+2025/03/25-01:52:12.313 11539 Level-0 table #7: 97920 bytes OK
+2025/03/25-01:52:12.322 11539 Delete type=0 #4
+2025/03/25-02:02:28.250 11526 Level-0 table #9: started
+2025/03/25-02:02:28.286 11526 Level-0 table #9: 103991 bytes OK
+2025/03/25-02:02:28.291 11526 Delete type=0 #6

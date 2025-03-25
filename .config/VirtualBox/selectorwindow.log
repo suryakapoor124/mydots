@@ -1,0 +1,25 @@
+00:00:00.374751 VirtualBox GUI VM Selector Window 7.1.6 r167084 linux.amd64 (Jan 21 2025 12:58:10) release log
+00:00:00.374754 Log opened 2025-03-24T17:21:20.678338000Z
+00:00:00.374755 Build Type: release
+00:00:00.374761 OS Product: Linux
+00:00:00.374762 OS Release: 6.13.8-zen1-1-zen
+00:00:00.374763 OS Version: #1 ZEN SMP PREEMPT_DYNAMIC Sun, 23 Mar 2025 17:17:17 +0000
+00:00:00.374800 DMI Product Name: HP 245 G6 Notebook PC
+00:00:00.374810 DMI Product Version: 
+00:00:00.374821 Firmware type: UEFI
+00:00:00.375895 Secure Boot: Disabled
+00:00:00.375952 Host RAM: 3763MB (3.6GB) total, 2523MB (2.4GB) available
+00:00:00.375958 Executable: /opt/VirtualBox/VirtualBox
+00:00:00.375959 Process ID: 57454
+00:00:00.375959 Package type: LINUX_64BITS_GENERIC
+00:00:00.376000 Qt version: 6.5.3
+00:00:00.376882 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.395281 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.395318 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:05.289082 GUI: UIInvisibleWindow::sltFallback: Move event missing. Screen: 0, work area: 682x383 x 800x800
+00:00:05.289140 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 682x383 x 800x800
+00:00:49.769710 GUI: UIMediumEnumerator: Medium with key={{16136052-8605-4ba2-828d-fa152bd40b06}} created
+00:00:50.277245 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:57.042888 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:19:12.753054 GUI: UICommon: Handling aboutToQuit request..
+00:19:13.587980 GUI: UICommon: aboutToQuit request handled!

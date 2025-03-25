@@ -1,0 +1,105 @@
+{
+   "checksum": "fe359a8fba4f8f3f6331895d0a41fec0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13227382375323185",
+            "date_last_used": "13365672718733881",
+            "guid": "91812117-2095-4d99-a072-753022a95f29",
+            "id": "9",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13227382375325646",
+            "date_last_used": "13387321469607393",
+            "guid": "cbf2bec1-b90c-4a7a-b5ca-864248523679",
+            "id": "10",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13227382375328298",
+            "date_last_used": "0",
+            "guid": "54e8f12d-1c73-4d1b-a2ee-df4aef2aeebd",
+            "id": "11",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         } ],
+         "date_added": "13387321077239006",
+         "date_last_used": "0",
+         "date_modified": "13227382375328298",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13348085369915742",
+            "date_last_used": "0",
+            "guid": "acc31541-d8f2-439e-a616-36eae2c86a51",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Bard",
+            "type": "url",
+            "url": "https://bard.google.com/chat"
+         }, {
+            "date_added": "13352891896774531",
+            "date_last_used": "0",
+            "guid": "aeba336e-0a99-4374-8249-7e157f2941c7",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Best Movies videos - Dailymotion",
+            "type": "url",
+            "url": "https://www.dailymotion.com/muhammad-ibrahim25"
+         }, {
+            "date_added": "13371069381598245",
+            "date_last_used": "0",
+            "guid": "c350bda4-fd4b-49f3-9c7b-1600a6ef61d3",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "passwords extection",
+            "type": "url",
+            "url": "https://chromewebstore.google.com/detail/pejdijmoenmkgeppbflobdenhhabjlaj"
+         }, {
+            "date_added": "13377846352470529",
+            "date_last_used": "0",
+            "guid": "20bcebbe-af22-4d87-8ebf-db7edd939cd1",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Stuck on Xiaomi/Redmi Fastboot Mode? Here's the Real Fix!",
+            "type": "url",
+            "url": "https://itoolab.com/tips/xiaomi-fastboot-stuck/?srsltid=AfmBOorarY-wPxlGUMRvtbkhqflcbbphLA6RR82OTWVRV7qLzvqFz9Ys"
+         } ],
+         "date_added": "13387321077239010",
+         "date_last_used": "0",
+         "date_modified": "13377846352470529",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13387321077239012",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cr0CCpwCCIiBAhKVAiAAkgGPAgqMAgoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJ1jsWXBwxBgAR1jsWXBwxBgAiNAllAl5bHDEGABADGV/4tw+EPYkDIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAllAl5bHDEGABADGV/4tw+EPYkDIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAllAl5bHDEGABADGV/4tw+EPYkDIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAllAl5bHDEGABADGV/4tw+EPYkDIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEpKhIYXBwxBgASACoYMVhVODR2eFpvQThLOGRhQWVLMHpXdz09SAMSrQIICxKoAgocUU1MV0ZGaEU2dVltWFZLR3Z2Ky9XR1NmdzJZPRKmAVo6QURxdEFaeU9xZHA3K0JJaW54N2hsRWdoOWo4anB1c0dZSjhWMGh3VXZMQXkrdHhpZ0MzQ2VJSkVSUEVoendVTDNMM0tEMGY5bFovdnk2cGhlOGlNRmVTYTdOaDBBQyszZWFpd3MySmU4RGhZN2l4TTgxT1hmS2FaWGFzSGRUUVo0azdXaVE2REhaQUZtMGdmU3pNd0o4RWoyL2ZLZU1WMzZ3PT0YACAAKAAwhb6G/vXUgwM4vvbf5YguQL723+WILkocV0IxS2ExUm1ya2JWN2tuZmFQby9UM0RsTzFrPVofIh27dWpQNkdaNjhTaXV0VGZkeVNNQ0FiSEdzcldZPWU9bIUREqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaeGVlekdEM2tGK2RKbnp5VzNydDQraEhYYk13TU9DQkR1Yjg5aVJybnB1KzJSSm9zUER2bnBIOWpSTG9pN0dna3poZzVPQxgAIAAoADDlhPjaxaOMAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEusBCAcS5gEKHERtSmRNVURiUkNOMlpXZER4NXowUW9VVVhoYz0SZlo6QURxdEFad0kyWFVYK1U1V2hDQi9Ua0dodHEySDBTQUQ4a3pKdWF0Z3pWVmRSSXJFU0o2aldoRUtXdlFyQ2NzbUJCZW5Gakt6VnhBSUo4bkJoMHdTcWNreUplRy9pbngzRUE9PRgAIAAoADCt34Pm/8yIAzjfp4OJoDJA36eDiaAyShxPSkI3cmdFaVRpcG9VMVc0UFRLVEpxeFdnWFk9Wh4iHFFXNnhvZmQyUlZObytKMFJmVytuVlBkZW1TUT1lAAAAABKsAggJEqcCChxxMTI1YWRsWkxaL1FpeENwQUxtSUphWk5yU1U9EqYBWjpBRHF0QVp5T3FkcDcrQklpbng3aGxFZ2g5ajhqcHVzR1lKOFYwaHdVdkxBeSt0eGlnTTd2dXk3VFArV1hkSzl6RXdpdjZKMUhIWlpEQnAwbUl5S3FTcTE4M3JVdURzdDBISjNsTHlpZWkvc2ZNMnlTRnlSYi9QT0Uxam5BWHZ3MFVOZHNNUDNkTmdSSksvYjhuK0RYSUJCbjdzaUt0MTVieXc9PRgAIAAoADCopNmYv62HAzi+9t/liC5Avvbf5YguShxWczF2MENnMW13ZXZyODFrVElPenp2ZGdUUXc9Wh4iHE9rRVVMYWV4bk9pYTZnQ0hXVzk0bHRiZWF2UT1lmz2FthLrAQgGEuYBChxYOFVTaTVZNFUyMUQ3M2preW5XWExmRnNxcmc9EmZaOkFEcXRBWndJMlhVWCtVNVdoQ0IvVGtHaHRxMkh5cys0bnlaOXVESnN0UUJqSExNN0c4ZlRLcVVpR0ZLRGdJU1BFUlZwU0Q4SUNxaXdlaE1pQTlZcHBQNC8vL0hKRnJVQWpBPT0YACAAKAAwqajYjsK5hAM4xteprdwxQMbXqa3cMUocTXF4UDJ4MU1QUUtySHhsR0h4QXpXNXVLcUJjPVoeIhxOd3pMdG5iWWpLZzhTY3dpUHlYcHE2SDNEWnc9Zd3dfFcS6wEICBLmAQocandGUTZQUm14cHpvZ1NLcTc5RnRRY0F2cElJPRJmWjpBRHF0QVp3STJYVVgrVTVXaENCL1RrR2h0cTJIZE11dVBRUm13NTBwanJPc05PR3diQ2NlNGxLbUpidjdEbjVyQmVyYjQrMGJ1WGR2WnBKZkt0Tzg1RTRYVjJydy9YM3gvdz09GAAgACgAMJLhv9rkj4oDONjkxKi5MkDY5MSouTJKHGN4RHBnbkNRaURBVmhwUkVxZHhnWEdNYmV3RT1aHiIcYVFUdkVlYzZGSzNaTVhhS01BVDVLcFczVXlvPWWaVygDEusBCAUS5gEKHHVmT1Z2OGx3L0VaaTZrckxYTlVuN1FZSGZDND0SZlo6QURxdEFad0kyWFVYK1U1V2hDQi9Ua0dodHEySEFiQ1RhMXVDVEhYMFl0ZEtPU3g4WlRQU3FNVGZmSEdEeDRIeWxoY3FBTXl0QVNVNmdZM3c5NU1ERkZuLzNGUHBxK0pGN2c9PRgAIAAoADCYuNu0lNOGAzj407K5yjFA+NOyucoxShxhSllRMzJqbzRNY3E3eURNdEF2YWE5R3VBSEE9Wh4iHEtxQ2Z6dVJGRkRRV3ErWUVBSy9PYWl6TmZJWT1lPwPzFhKsAggKEqcCChxzY254V2hNckUzeHVLK2RVMFZkaFQzaDdzYTA9EqYBWjpBRHF0QVp5T3FkcDcrQklpbng3aGxFZ2g5ajhqcHVzR1lKOFYwaHdVdkxBeSt0eGlnUFM5WHo4WGZLSFFxbldvdXFzU3Q4NDhHQTJUNFp1R3djU2hrRFdFNkNVc1pTQi9wbHhBTTlBYmZ2bmtQS241SFRHRGo2c29SZWUxOHRqRkYrVVl6cUpDQXoyM3Z0K3ZQdndrWmpIMmpLSFF5TDIzeEE9PRgAIAAoADC64Ki+paSJAzi+9t/liC5Avvbf5YguShxDeHdKbjFMZHAvTTQ4RGVKZGJrbnJyOHZYaHM9Wh4iHHZHdlB3N1VkODI2Q01sT0F3OS9xRmpyT2t6UT1l/ZyMShLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnhwZXZDUUtqbitXam0rVzBkaDhjekRWeENhcUp6SFZiYXhJSFNBQWRtWEdSWGR4VDg4TnpUcjRxbVI2Y1g4WFdEeEtQTnBjMlJRQ25iM0cwaXBhZU8vSzBMMDVRPT0YACAAKAAw5YT42sWjjAM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWndNY1dPcE12NFRNdUVIc2ZHWHA4ek81SHk3NzdTR3k0aHozMENjakpyYk9YNUFkZFFxcW5iTldGSjJJYVNDRnJyclBla284R0hFZjZ3UEplblhaZDBYRTJCYkZRPT0YACAAKAAw5YT42sWjjAM4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAADABOAA=",
+   "version": 1
+}

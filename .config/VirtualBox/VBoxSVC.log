@@ -1,0 +1,252 @@
+00:00:00.000485 main     VirtualBox XPCOM Server 7.1.6 r167084 linux.amd64 (Jan 21 2025 12:58:10) release log
+00:00:00.000491 main     Log opened 2025-03-24T17:21:20.475529000Z
+00:00:00.000492 main     Build Type: release
+00:00:00.000507 main     OS Product: Linux
+00:00:00.000508 main     OS Release: 6.13.8-zen1-1-zen
+00:00:00.000509 main     OS Version: #1 ZEN SMP PREEMPT_DYNAMIC Sun, 23 Mar 2025 17:17:17 +0000
+00:00:00.000561 main     DMI Product Name: HP 245 G6 Notebook PC
+00:00:00.000571 main     DMI Product Version: 
+00:00:00.000585 main     Firmware type: UEFI
+00:00:00.002037 main     Secure Boot: Disabled
+00:00:00.002099 main     Host RAM: 3763MB (3.6GB) total, 2524MB (2.4GB) available
+00:00:00.002105 main     Executable: /opt/VirtualBox/VBoxSVC
+00:00:00.002106 main     Process ID: 57472
+00:00:00.002106 main     Package type: LINUX_64BITS_GENERIC
+00:00:00.004441 main     IPC socket path: /tmp/.vbox-meow-ipc/ipcd
+00:00:00.008201 DCon01   VirtualBox: object creation starts
+00:00:00.008322 DCon01   Home directory: '/home/meow/.config/VirtualBox'
+00:00:00.027167 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.028078 DCon01   HostDnsMonitor: initializing
+00:00:00.028438 DCon01   NAT: resolv.conf: nameserver 192.168.31.1
+00:00:00.028475 DCon01   HostDnsMonitor: updating information
+00:00:00.028493 DCon01   HostDnsMonitor: old information
+00:00:00.028497 DCon01     no server entries
+00:00:00.028502 DCon01     no domain set
+00:00:00.028506 DCon01     no search string entries
+00:00:00.028509 DCon01   HostDnsMonitor: new information
+00:00:00.028513 DCon01     server 1: 192.168.31.1
+00:00:00.028517 DCon01     domain: lan
+00:00:00.028521 DCon01     search string 1: lan
+00:00:00.030809 DCon01   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.031051 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.031239 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.032321 DCon01   VirtualBox: object created
+00:00:00.208471 DCon03   Saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.212085 DCon03   Finished saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml"
+00:00:00.212461 DCon03   Saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.216463 DCon03   Finished saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml"
+00:00:00.216942 DCon03   Saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.221557 DCon03   Finished saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml"
+00:00:00.873816 DCon02   Saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.877917 DCon02   Finished saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml"
+00:00:00.927954 DCon02   Saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.932075 DCon02   Finished saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml"
+00:00:00.961172 DCon01   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=false aResultDetail=0
+00:00:01.303927 DCon01   Saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:01.309074 DCon01   Finished saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml"
+00:00:04.010748 DCon02   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:26.121429 DCon03   Unattended: .disk/info: Unknown: arch='PIXEL_TV_11'
+00:00:26.121463 DCon03   Unattended: .disk/info: Unknown: diskname='Android-x86
+00:00:26.121463 DCon03   '
+00:00:26.121468 DCon03   Unattended: .disk/info: Did not find DISKNAME or/and ARCH. :-/
+00:00:26.121490 DCon03   Unattended: RTVfsQueryPathInfo(, '\OS2IMAGE/DISK_0/OS2LDR' (from OS2SE20.SRC),) -> VERR_PATH_NOT_FOUND, fMode=0x0
+00:00:26.128349 DCon03   Saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:26.132110 DCon03   Finished saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml"
+00:00:26.134654 DCon01   Saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:26.138440 DCon01   Finished saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml"
+00:00:49.342780 createBase Saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:49.590308 createBase Finished saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml"
+00:00:49.598589 DCon05   Platform architecture set to 'x86'
+00:00:49.598727 DCon05   Platform architecture set to 'x86'
+00:00:49.598740 DCon05   Platform architecture set to 'x86'
+00:00:49.599283 DCon05   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:49.599330 DCon05   Platform architecture set to 'x86'
+00:00:49.601959 DCon05   Saving settings file "/home/meow/VirtualBox VMs/TV/TV.vbox" with version "1.19-linux"
+00:00:49.991496 DCon05   Finished saving settings file "/home/meow/VirtualBox VMs/TV/TV.vbox"
+00:00:49.991661 DCon05   Saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:49.994431 DCon05   Finished saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml"
+00:00:49.995812 DCon09   Platform architecture set to 'x86'
+00:00:49.998104 DCon05   Saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:50.001684 DCon05   Finished saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml"
+00:00:50.007364 DCon10   Saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:50.011268 DCon10   Finished saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml"
+00:00:50.012283 DCon05   Saving settings file "/home/meow/VirtualBox VMs/TV/TV.vbox" with version "1.19-linux"
+00:00:50.016473 DCon05   Finished saving settings file "/home/meow/VirtualBox VMs/TV/TV.vbox"
+00:00:50.042923 DCon10   Saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:50.046529 DCon10   Finished saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml"
+00:00:50.418758 DCon10   Saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:50.435070 DCon10   Finished saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml"
+00:00:50.441995 DCon11   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:50.486630 DCon03   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:50.488548 DCon09   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:50.633498 DCon03   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:50.747805 DCon09   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:50.751496 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:50.938474 DCon03   Saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:50.954015 DCon03   Finished saving settings file "/home/meow/.config/VirtualBox/VirtualBox.xml"
+00:00:56.360220 DCon10   Launched VM: 2617582432 pid: 57524 (0xe0b4) frontend: GUI/Qt name: TV
+00:00:56.444185 DCon05   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:56.446222 DCon05   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:56.475890 DCon05   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:56.548872 DCon05   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:56.551286 DCon05   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:56.861420 Watcher  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The virtual machine 'TV' has terminated unexpectedly during startup with exit code 1 (0x1)}, preserve=false aResultDetail=0
+00:00:56.931721 DCon05   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:56.933827 DCon05   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:56.961936 DCon05   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:57.033341 DCon05   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:57.035531 DCon05   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:01:32.548729 dns-monitor NAT: resolv.conf: nameserver 192.168.31.1
+00:01:32.548787 dns-monitor NAT: resolv.conf: nameserver 2409:40d7:5c:64ff:5481:36ff:fe55:ce1d
+00:01:32.548823 dns-monitor HostDnsMonitor: updating information
+00:01:32.548874 dns-monitor HostDnsMonitor: old information
+00:01:32.548882 dns-monitor   server 1: 192.168.31.1
+00:01:32.548892 dns-monitor   domain: lan
+00:01:32.548898 dns-monitor   search string 1: lan
+00:01:32.548905 dns-monitor HostDnsMonitor: new information
+00:01:32.548910 dns-monitor   server 1: 192.168.31.1
+00:01:32.548916 dns-monitor   server 2: 2409:40d7:5c:64ff:5481:36ff:fe55:ce1d
+00:01:32.548923 dns-monitor   domain: lan
+00:01:32.548928 dns-monitor   search string 1: lan
+00:03:18.447201 dns-monitor HostDnsMonitor: updating information
+00:03:18.448403 dns-monitor HostDnsMonitor: old information
+00:03:18.448425 dns-monitor   server 1: 192.168.31.1
+00:03:18.448452 dns-monitor   server 2: 2409:40d7:5c:64ff:5481:36ff:fe55:ce1d
+00:03:18.448457 dns-monitor   domain: lan
+00:03:18.448461 dns-monitor   search string 1: lan
+00:03:18.448466 dns-monitor HostDnsMonitor: new information
+00:03:18.448485 dns-monitor   no server entries
+00:03:18.448489 dns-monitor   no domain set
+00:03:18.448493 dns-monitor   no search string entries
+00:03:18.519275 MainPower Host suspending: Paused 0 VMs
+00:03:20.735705 MainPower Host resumed: Resumed 0 VMs
+00:03:51.978265 dns-monitor NAT: resolv.conf: nameserver 2409:40d7:5c:64ff:5481:36ff:fe55:ce1d
+00:03:51.978314 dns-monitor HostDnsMonitor: updating information
+00:03:51.978355 dns-monitor HostDnsMonitor: old information
+00:03:51.978362 dns-monitor   no server entries
+00:03:51.978370 dns-monitor   no domain set
+00:03:51.978380 dns-monitor   no search string entries
+00:03:51.978387 dns-monitor HostDnsMonitor: new information
+00:03:51.978393 dns-monitor   server 1: 2409:40d7:5c:64ff:5481:36ff:fe55:ce1d
+00:03:51.978400 dns-monitor   no domain set
+00:03:51.978406 dns-monitor   no search string entries
+00:03:52.229630 dns-monitor NAT: resolv.conf: nameserver 192.168.31.1
+00:03:52.229674 dns-monitor NAT: resolv.conf: nameserver 2409:40d7:5c:64ff:5481:36ff:fe55:ce1d
+00:03:52.229697 dns-monitor HostDnsMonitor: updating information
+00:03:52.229716 dns-monitor HostDnsMonitor: old information
+00:03:52.229722 dns-monitor   server 1: 2409:40d7:5c:64ff:5481:36ff:fe55:ce1d
+00:03:52.229730 dns-monitor   no domain set
+00:03:52.229736 dns-monitor   no search string entries
+00:03:52.229742 dns-monitor HostDnsMonitor: new information
+00:03:52.229747 dns-monitor   server 1: 192.168.31.1
+00:03:52.229753 dns-monitor   server 2: 2409:40d7:5c:64ff:5481:36ff:fe55:ce1d
+00:03:52.229758 dns-monitor   domain: lan
+00:03:52.229764 dns-monitor   search string 1: lan
+00:05:27.074748 dns-monitor NAT: resolv.conf: nameserver 192.168.31.1
+00:05:27.074798 dns-monitor HostDnsMonitor: updating information
+00:05:27.074832 dns-monitor HostDnsMonitor: old information
+00:05:27.074839 dns-monitor   server 1: 192.168.31.1
+00:05:27.074845 dns-monitor   server 2: 2409:40d7:5c:64ff:5481:36ff:fe55:ce1d
+00:05:27.074851 dns-monitor   domain: lan
+00:05:27.074857 dns-monitor   search string 1: lan
+00:05:27.074862 dns-monitor HostDnsMonitor: new information
+00:05:27.074867 dns-monitor   server 1: 192.168.31.1
+00:05:27.074873 dns-monitor   domain: lan
+00:05:27.074877 dns-monitor   search string 1: lan
+00:05:45.957839 dns-monitor NAT: resolv.conf: nameserver 192.168.31.1
+00:05:45.957873 dns-monitor NAT: resolv.conf: nameserver 2409:40d7:5c:64ff:5481:36ff:fe55:ce1d
+00:05:45.957892 dns-monitor HostDnsMonitor: updating information
+00:05:45.957900 dns-monitor HostDnsMonitor: old information
+00:05:45.957906 dns-monitor   server 1: 192.168.31.1
+00:05:45.957914 dns-monitor   domain: lan
+00:05:45.957920 dns-monitor   search string 1: lan
+00:05:45.957927 dns-monitor HostDnsMonitor: new information
+00:05:45.957933 dns-monitor   server 1: 192.168.31.1
+00:05:45.957940 dns-monitor   server 2: 2409:40d7:5c:64ff:5481:36ff:fe55:ce1d
+00:05:45.957960 dns-monitor   domain: lan
+00:05:45.957975 dns-monitor   search string 1: lan
+00:08:47.672996 dns-monitor NAT: resolv.conf: nameserver 192.168.31.1
+00:08:47.673063 dns-monitor HostDnsMonitor: updating information
+00:08:47.673101 dns-monitor HostDnsMonitor: old information
+00:08:47.673109 dns-monitor   server 1: 192.168.31.1
+00:08:47.673115 dns-monitor   server 2: 2409:40d7:5c:64ff:5481:36ff:fe55:ce1d
+00:08:47.673122 dns-monitor   domain: lan
+00:08:47.673127 dns-monitor   search string 1: lan
+00:08:47.673133 dns-monitor HostDnsMonitor: new information
+00:08:47.673137 dns-monitor   server 1: 192.168.31.1
+00:08:47.673167 dns-monitor   domain: lan
+00:08:47.673172 dns-monitor   search string 1: lan
+00:08:54.871733 dns-monitor NAT: resolv.conf: nameserver 192.168.31.1
+00:08:54.871778 dns-monitor NAT: resolv.conf: nameserver 2409:40d7:5c:64ff:5481:36ff:fe55:ce1d
+00:08:54.871804 dns-monitor HostDnsMonitor: updating information
+00:08:54.871816 dns-monitor HostDnsMonitor: old information
+00:08:54.871825 dns-monitor   server 1: 192.168.31.1
+00:08:54.871836 dns-monitor   domain: lan
+00:08:54.871844 dns-monitor   search string 1: lan
+00:08:54.871853 dns-monitor HostDnsMonitor: new information
+00:08:54.871861 dns-monitor   server 1: 192.168.31.1
+00:08:54.871870 dns-monitor   server 2: 2409:40d7:5c:64ff:5481:36ff:fe55:ce1d
+00:08:54.871878 dns-monitor   domain: lan
+00:08:54.871886 dns-monitor   search string 1: lan
+00:12:27.132900 dns-monitor NAT: resolv.conf: nameserver 192.168.31.1
+00:12:27.132952 dns-monitor HostDnsMonitor: updating information
+00:12:27.132993 dns-monitor HostDnsMonitor: old information
+00:12:27.133003 dns-monitor   server 1: 192.168.31.1
+00:12:27.133011 dns-monitor   server 2: 2409:40d7:5c:64ff:5481:36ff:fe55:ce1d
+00:12:27.133020 dns-monitor   domain: lan
+00:12:27.133028 dns-monitor   search string 1: lan
+00:12:27.133036 dns-monitor HostDnsMonitor: new information
+00:12:27.133044 dns-monitor   server 1: 192.168.31.1
+00:12:27.133052 dns-monitor   domain: lan
+00:12:27.133059 dns-monitor   search string 1: lan
+00:13:50.612269 dns-monitor NAT: resolv.conf: nameserver 192.168.31.1
+00:13:50.612309 dns-monitor NAT: resolv.conf: nameserver 2409:40d7:5c:64ff:5481:36ff:fe55:ce1d
+00:13:50.612337 dns-monitor HostDnsMonitor: updating information
+00:13:50.612379 dns-monitor HostDnsMonitor: old information
+00:13:50.612389 dns-monitor   server 1: 192.168.31.1
+00:13:50.612400 dns-monitor   domain: lan
+00:13:50.612409 dns-monitor   search string 1: lan
+00:13:50.612418 dns-monitor HostDnsMonitor: new information
+00:13:50.612428 dns-monitor   server 1: 192.168.31.1
+00:13:50.612436 dns-monitor   server 2: 2409:40d7:5c:64ff:5481:36ff:fe55:ce1d
+00:13:50.612445 dns-monitor   domain: lan
+00:13:50.612453 dns-monitor   search string 1: lan
+00:15:51.152754 dns-monitor NAT: resolv.conf: nameserver 192.168.31.1
+00:15:51.152821 dns-monitor HostDnsMonitor: updating information
+00:15:51.152874 dns-monitor HostDnsMonitor: old information
+00:15:51.152884 dns-monitor   server 1: 192.168.31.1
+00:15:51.152895 dns-monitor   server 2: 2409:40d7:5c:64ff:5481:36ff:fe55:ce1d
+00:15:51.152906 dns-monitor   domain: lan
+00:15:51.152914 dns-monitor   search string 1: lan
+00:15:51.152924 dns-monitor HostDnsMonitor: new information
+00:15:51.152932 dns-monitor   server 1: 192.168.31.1
+00:15:51.152941 dns-monitor   domain: lan
+00:15:51.152951 dns-monitor   search string 1: lan
+00:16:54.876225 dns-monitor NAT: resolv.conf: nameserver 192.168.31.1
+00:16:54.876272 dns-monitor NAT: resolv.conf: nameserver 2409:40d7:5c:64ff:5481:36ff:fe55:ce1d
+00:16:54.876301 dns-monitor HostDnsMonitor: updating information
+00:16:54.876374 dns-monitor HostDnsMonitor: old information
+00:16:54.876382 dns-monitor   server 1: 192.168.31.1
+00:16:54.876391 dns-monitor   domain: lan
+00:16:54.876398 dns-monitor   search string 1: lan
+00:16:54.876406 dns-monitor HostDnsMonitor: new information
+00:16:54.876414 dns-monitor   server 1: 192.168.31.1
+00:16:54.876420 dns-monitor   server 2: 2409:40d7:5c:64ff:5481:36ff:fe55:ce1d
+00:16:54.876427 dns-monitor   domain: lan
+00:16:54.876451 dns-monitor   search string 1: lan
+00:18:33.185642 dns-monitor HostDnsMonitor: updating information
+00:18:33.185730 dns-monitor HostDnsMonitor: old information
+00:18:33.185741 dns-monitor   server 1: 192.168.31.1
+00:18:33.185750 dns-monitor   server 2: 2409:40d7:5c:64ff:5481:36ff:fe55:ce1d
+00:18:33.185757 dns-monitor   domain: lan
+00:18:33.185763 dns-monitor   search string 1: lan
+00:18:33.185770 dns-monitor HostDnsMonitor: new information
+00:18:33.185775 dns-monitor   no server entries
+00:18:33.185782 dns-monitor   no domain set
+00:18:33.185788 dns-monitor   no search string entries
+00:19:18.404834 main     VirtualBox: object deletion starts
+00:19:18.405197 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium '/home/meow/VirtualBox VMs/TV/TV.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:19:18.407363 main     HostDnsMonitor: shutting down ...
+00:19:18.411494 main     HostDnsMonitor: shut down
+00:19:18.423304 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:19:18.423567 main     VirtualBox: object deleted

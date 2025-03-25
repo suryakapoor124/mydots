@@ -1,0 +1,5 @@
+2025/03/25-01:47:57.434 4 Creating DB /home/meow/.config/google-chrome/Default/Local Storage/leveldb since it was missing.
+2025/03/25-01:47:57.693 4 Reusing MANIFEST /home/meow/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2025/03/25-01:53:44.693 4 Level-0 table #5: started
+2025/03/25-01:53:44.707 4 Level-0 table #5: 60083 bytes OK
+2025/03/25-01:53:44.719 4 Delete type=0 #3
